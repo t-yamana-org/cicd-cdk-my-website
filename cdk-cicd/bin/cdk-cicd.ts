@@ -8,3 +8,4 @@ new CdkCicdStack(app, 'CdkCicdStack', {
     region: 'ap-northeast-1',
   },
 });
+app.synth();
