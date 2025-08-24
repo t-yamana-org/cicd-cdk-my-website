@@ -11,7 +11,8 @@
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "ms-azuretools.vscode-docker",
-        "amazonwebservices.aws-toolkit-vscode"
+        "amazonwebservices.aws-toolkit-vscode",
+        "amazonwebservices.amazon-q-vscode"
       ]
     }
   },
